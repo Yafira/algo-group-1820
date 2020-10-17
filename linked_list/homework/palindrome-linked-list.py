@@ -1,5 +1,5 @@
-# [876] Middle of the Linked List
-# https://leetcode.com/problems/middle-of-the-linked-list/
+# [234] palindrome linked list
+# https://leetcode.com/problems/palindrome-linked-list/
 
 # Definition for singly-linked list.
 # class ListNode:

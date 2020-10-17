@@ -1,5 +1,5 @@
-# [206] Reverse Linked List
-# https://leetcode.com/problems/reverse-linked-list/
+# [61] Rotate List
+# https://leetcode.com/problems/rotate-list
 
 # Definition for singly-linked list.
 # class ListNode:
@@ -7,5 +7,5 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def reverseList(self, head: ListNode) -> ListNode:
+    def isPalindrome(self, head: ListNode) -> bool:
         
