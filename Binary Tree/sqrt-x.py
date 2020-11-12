@@ -1,12 +1,12 @@
-#
-# @lc app=leetcode id=69 lang=python3
-#
-# [69] Sqrt(x)
-#
+# https: // leetcode.com/problems/sqrtx/
 
-# @lc code=start
-class Solution:
-    def mySqrt(self, x: int) -> int:
-        
-# @lc code=end
+import math
 
+class Solution(object):
+    def mySqrt(self, x):
+        """
+        :type x: int
+        :rtype: int
+        """
+        result = int(math.sqrt(x))
+        return result
